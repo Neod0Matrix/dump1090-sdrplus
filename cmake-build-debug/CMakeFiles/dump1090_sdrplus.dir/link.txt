@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/dump1090_sdrplus.dir/src/data.c.o CMakeFiles/dump1090_sdrplus.dir/src/devices.c.o CMakeFiles/dump1090_sdrplus.dir/src/dump1090.c.o CMakeFiles/dump1090_sdrplus.dir/src/netpro.c.o  -o dump1090_sdrplus 

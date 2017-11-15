@@ -1,0 +1,3 @@
+/home/LTEProjects/ucsdr/sdrapp/dump1090-sdrplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/LTEProjects/ucsdr/sdrapp/dump1090-sdrplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/LTEProjects/ucsdr/sdrapp/dump1090-sdrplus/cmake-build-debug/CMakeFiles/dump1090_sdrplus.dir

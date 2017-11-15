@@ -332,8 +332,15 @@ is released under the BSD three clause license. HackRF One support was added by
 [Chris Kuethe](https://github.com/ckuethe). SDRplay support was added by
 the [SDRplay](https://github.com/SDRplay) team.
 
-Refacte all code by </MATRIX>@Neod Anderjon.
-[Neod0Matrix](https://github.com/Neod0Matrix).
-Last update time: 20170924pm1907
-</MATRIX> BackupList log version: v0p3_develop
->>>>>>> dump1090-sdrplus
+Refacte
+---
+
+
+Refacte all code by \</MATRIX>@Neod Anderjon
+[Neod0Matrix](https://github.com/Neod0Matrix)
+
+Last update time: 20171115pm1320
+
+\</MATRIX> BackupList log version: v0p3_develop
+
+> dump1090-sdrplus
